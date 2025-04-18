@@ -8,7 +8,7 @@ body {
 .header {
     background-color: #FFFFFF;
     position: fixed;
-    width: 100%;
+    width: 1440px;
     height: 72px;
 }
 .header :focus, .header:active {

@@ -38,6 +38,7 @@ body {
 }
 
 .nav {
+    flex-direction: row;
     gap: 40px;
     width: 261px;
     height: 24px;
@@ -51,6 +52,7 @@ body {
 }
 
 .address {
+    flex-direction: row;
     font-weight: 400;
     color: #434455;
 }

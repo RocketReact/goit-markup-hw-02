@@ -9,6 +9,7 @@ body {
 .header {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     background-color: #FFFFFF;
     position: fixed;
     width: 1440px;

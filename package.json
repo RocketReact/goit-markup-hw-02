@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rocketreact.github.io/goit-markup-hw-01/",
+  "homepage": "https://rocketreact.github.io/goit-markup-hw-02/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

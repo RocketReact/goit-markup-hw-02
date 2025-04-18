@@ -1,0 +1,64 @@
+body {
+    font-family: Roboto, Verdana, Tahoma sans-serif;
+    color: black;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+}
+
+.header {
+    background-color: #FFFFFF;
+    position: fixed;
+}
+.header :focus, .header:active {
+    border: 1px #E7E9FC
+}
+.header :hover {
+    border: 2px #E7E9FC
+}
+
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.31;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.logo .web {
+    color: #4D5AE5;
+}
+
+.nav {
+    gap: 40px;
+    width: 261px;
+    height: 24px;
+}
+
+
+
+.nav ul {
+    font-weight: 500;
+    color:#2E2F42;
+}
+
+.address {
+    font-weight: 400;
+    color: #434455;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 3.75;
+    justify-content: center;
+    color: white;
+}
+.btn-hero-img {
+    padding: 16px 32px;
+    color: white;
+    background-color: #4D5AE5;
+    gap: 10px;
+    border-radius: 4px;
+}

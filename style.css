@@ -52,6 +52,9 @@ body {
 .nav ul {
     font-weight: 500;
     color:#2E2F42;
+
+}
+.nav li {
     list-style-type: none;
 }
 
@@ -61,6 +64,9 @@ body {
     justify-content: space-between;
     font-weight: 400;
     color: #434455;
+
+}
+.address li {
     list-style-type: none;
 }
 

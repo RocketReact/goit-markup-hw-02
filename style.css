@@ -3,10 +3,12 @@ body {
     color: black;
     letter-spacing: 0.02em;
     line-height: 1.5;
+
 }
 
 .header {
     display: flex;
+    flex-direction: row;
     background-color: #FFFFFF;
     position: fixed;
     width: 1440px;

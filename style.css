@@ -42,7 +42,6 @@ body {
 .nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     gap: 40px;
     width: 261px;
     height: 24px;
@@ -53,6 +52,7 @@ body {
 .nav ul {
     font-weight: 500;
     color:#2E2F42;
+    list-style-type: none;
 }
 
 .address {
@@ -61,6 +61,7 @@ body {
     justify-content: space-between;
     font-weight: 400;
     color: #434455;
+    list-style-type: none;
 }
 
 h1 {

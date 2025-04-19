@@ -114,5 +114,10 @@ body {
 }
 .li-team-member {
     background-color: #FFFFFF;
-
+}
+.footer {
+    background-color: #2e2f42;
+}
+.footer-paragraph {
+    background-color: #F4F4FD;
 }

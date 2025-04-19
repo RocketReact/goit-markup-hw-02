@@ -23,11 +23,9 @@ body {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-align: center;
     text-transform: uppercase;
     text-decoration: none;
     color: #4d5ae5;
-
 
 }
 .span1 {
@@ -124,6 +122,6 @@ body {
 .footer-paragraph {
     color: #F4F4FD;
 }
-.span2 {
+.span-second {
     color: #f4f4fd;
 }

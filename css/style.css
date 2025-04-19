@@ -90,7 +90,7 @@ body {
     background-color: #404BBF;
     cursor: pointer;
 }
-.section2 {
+.h3-section2 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -98,6 +98,21 @@ body {
     color: #2e2f42;
 
 }
+.title2 {
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 .wt-we-do-paragraph {
     color: #434455;
+}
+.our-team {
+    background-color: #F4F4FD;
+}
+.li-team-member {
+    background-color: #FFFFFF;
+
 }

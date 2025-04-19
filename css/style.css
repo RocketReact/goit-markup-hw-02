@@ -122,5 +122,8 @@ body {
     background-color: #2e2f42;
 }
 .footer-paragraph {
-    background-color: #F4F4FD;
+    color: #F4F4FD;
+}
+.span-footer {
+    color: #f4f4fd
 }

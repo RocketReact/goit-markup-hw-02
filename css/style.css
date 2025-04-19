@@ -6,9 +6,11 @@
     text-decoration: none;
 }
 body {
-    font-family: Roboto, Verdana, Tahoma sans-serif;
+    font-family: Roboto, sans-serif;
     letter-spacing: 0.02em;
     line-height: 1.5;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 .header {
@@ -33,44 +35,48 @@ body {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.31;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    color: black;
+    color: #4d5ae5;
     padding-right: 76px;
 
 }
-.logo .web {
-    color: #4D5AE5;
+.logo span {
+    color: #2e2f42;
 }
 
 .nav {
  display: flex;
     flex-direction: row;
-
 }
-
-
 
 .nav ul {
     display: flex;
     flex-direction: row;
     font-weight: 500;
-    color:#2E2F42;
     gap: 40px;
 }
 .nav li {
     list-style-type: none;
 }
+.nav-li {
+    color:#2E2F42;
+}
+.nav-li:hover, .nav-li:focus {
+    color: #404bbf;
+}
 
-
-.address {
+.address-a {
     font-style: normal;
     font-weight: 400;
-    color: #434455;
+    color:#434455;
 
+}
+.address-a:hover, .address-a:focus {
+    color:#404bbf;
 }
 .address ul {
     display: flex;
@@ -90,13 +96,15 @@ body {
 
 }
 
-h1 {
+.hero-h1 {
     font-size: 56px;
     font-weight: 700;
+    line-height: 1.07;
     width: 491px;
     justify-content: center;
     color: white;
     margin-bottom: 48px;
+    letter-spacing: 0.02em;
 
 }
 

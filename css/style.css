@@ -41,10 +41,10 @@ body {
 .nav li {
     list-style-type: none;
 }
-.nav-li {
+.nav-a {
     color:#2E2F42;
 }
-.nav-li:hover, .nav-li:focus {
+.nav-a:hover, .nav-a:focus {
     color: #404bbf;
 }
 

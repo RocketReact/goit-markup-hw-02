@@ -112,6 +112,9 @@ body {
 .our-team {
     background-color: #F4F4FD;
 }
+.fix-line-height {
+    line-height: 1.11
+}
 .li-team-member {
     background-color: #FFFFFF;
 }

@@ -1,5 +1,4 @@
 * {
-
     color: black;
     text-decoration: none;
 }
@@ -11,10 +10,6 @@ body {
     background-color: #FFFFFF;
 }
 
-.header {
-
-
-}
 .header :focus, .header:active {
     border: 1px #E7E9FC
 }
@@ -39,12 +34,7 @@ body {
     color: #2e2f42;
 }
 
-.nav {
-
-}
-
 .nav ul {
-
     font-weight: 500;
 
 }
@@ -67,20 +57,16 @@ body {
 .address-a:hover, .address-a:focus {
     color:#404bbf;
 }
-.address ul {
 
-}
 .address li {
     list-style-type: none;
 }
 
 .hero {
-    height: 600px;
     background-color: #2E2F42;
     text-align: center;
 
 }
-
 .hero-h1 {
     font-size: 56px;
     font-weight: 700;
@@ -94,4 +80,3 @@ body {
     background-color: #4D5AE5;
 
 }
-
